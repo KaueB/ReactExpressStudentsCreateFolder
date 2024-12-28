@@ -1,0 +1,3 @@
+export = {
+    filelocation: './uploads'
+};
